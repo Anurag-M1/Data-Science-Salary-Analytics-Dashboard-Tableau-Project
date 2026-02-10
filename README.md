@@ -1,4 +1,4 @@
-# 💼 Data Science Salary Analytics Dashboard (Tableau Portfolio Project)
+# 💼 Data Science Salary Analytics Dashboard (Tableau Project)
 
 Interactive Tableau dashboard analyzing global data science salaries by job title, experience, company size, and location.
 
@@ -73,17 +73,11 @@ All visuals update dynamically.
 ---
 
 ## 📸 Screenshot
-Add screenshot file to repo and rename to:
-dashboard.png
+<img width="4198" height="2398" alt="Data Science" src="https://github.com/user-attachments/assets/aaf7200e-f268-4752-aac1-ce1a3f806dda" />
 
----
-
-## 🌐 Live Dashboard
-(Add Tableau Public link here)
 
 ---
 
 ## 👤 Author
-Your Name  
-GitHub: https://github.com/yourusername  
-LinkedIn: https://linkedin.com/in/yourprofile
+Anurag Kumar Singh
+GitHub: https://github.com/Anurag-M1
